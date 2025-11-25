@@ -1,0 +1,4 @@
+## Module 6: Equation Explainer
+- Detect mathematical expressions in text.
+- Provide plain-language explanations of equations.
+- Handle notation differences across disciplines (e.g., physics vs. economics).
