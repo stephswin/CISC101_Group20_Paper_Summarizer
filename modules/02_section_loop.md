@@ -1,3 +1,4 @@
+Change log [28/11/2025]: Added Summary level mode
 # Module 2: Section Loop
 
 Iterate through each section.  
