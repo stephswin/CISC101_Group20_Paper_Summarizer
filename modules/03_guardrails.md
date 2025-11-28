@@ -1,3 +1,4 @@
+Change log [28/11/2025]: Added Strict Evidence Mode
 # Module 3: Guardrails
 
 Missing/Empty Sections: Insert placeholder + warning.  
